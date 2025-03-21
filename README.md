@@ -30,22 +30,17 @@ Deployment: Docker, Vercel, or on-premise servers.
 
 Installation & Setup
 
-Clone the repository:
-
+# Clone the repository
 git clone https://github.com/your-repo/automation-business-dashboards.git
 cd automation-business-dashboards
 
-Install dependencies:
-
+# Install dependencies
 pip install -r requirements.txt  # For Python-based automation
 
-Set up the MS SQL Server connection in the configuration file.
+# Set up the MS SQL Server connection in the configuration file
 
-Run the data automation script:
-
+# Run the data automation script
 python automate_dashboard.py
-
-(Optional) Deploy the dashboard for visualization.
 
 Usage
 
